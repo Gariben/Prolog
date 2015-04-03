@@ -1,5 +1,7 @@
 # Enigma Machine
 
+![alt text](http://i.imgur.com/hjOIrnt.png "Sample IO on Ubuntu 12.04")
+
 ## About the Enigma Machine
 
 The Enigma Machine is a device famously used in WWII by German forces to encrpyt messages. It worked by 
